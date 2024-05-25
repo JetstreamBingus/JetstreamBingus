@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JetstreamBingus</h1>
+<h1 align="center">Hi , I'm JetstreamBingus</h1>
 <h3 align="center">Nothing much,just a lifeless person</h3>
 
 - 🌱 I’m currently learning **JavaScript/HTML/CSS**
